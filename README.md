@@ -4,6 +4,7 @@ Professor: Henrique Viana Oliveira
 Disciplina: Aritmética Digital
 
 Aluno: Lucas Davi Barros Marinho 
+
 Aluno: Maria Mell Oliveira Sudario
 
 📌 Descrição
