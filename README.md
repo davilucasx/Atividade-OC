@@ -1,7 +1,7 @@
 📘 Trabalho N3 – Organização de Computadores
 Professor: Henrique Viana Oliveira
 
-Disciplina: Aritmética Digital
+Aritmética Digital
 
 Aluno: Lucas Davi Barros Marinho 
 
